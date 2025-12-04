@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "Albegos";
+    src: url("../fonts/Albegos.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Plantagenet Cherokee";
+    src: url("../fonts/Plantagenet%20Cherokee.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Hind Vadodara";
+    src: url("../fonts/HindVadodara-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Playfair Display";
+    src: url("../fonts/PlayfairDisplay-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Playfair Display";
+    src: url("../fonts/PlayfairDisplay-Regular.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
